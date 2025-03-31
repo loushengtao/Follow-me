@@ -1,0 +1,5 @@
+opencv-python==4.11.0.86
+PyYAML==6.0.2
+tqdm
+numpy==1.23
+yacs
