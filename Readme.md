@@ -1,7 +1,9 @@
 # [**Follow-me: Deceiving Trackers with Fabricated Paths**](https://dl.acm.org/doi/10.1145/3581783.3611935)<br>
 
 
-<img src="https://github.com/loushengtao/Follow-me/blob/main/doc/demo.gif">
+![demo](doc/demo.gif)
+
+<!-- <img src="https://github.com/loushengtao/Follow-me/blob/main/doc/demo.gif"> -->
 
 ## Introduction
 In this work, we propose a novel attack algorithm
